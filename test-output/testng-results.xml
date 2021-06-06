@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20668" started-at="2021-06-06T16:23:49 IST" finished-at="2021-06-06T16:24:10 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20668" started-at="2021-06-06T16:23:49 IST" finished-at="2021-06-06T16:24:10 IST">
+      <class name="TestScripts.MobileEmulatorForArrivalStatus">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:TestScripts.MobileEmulatorForArrivalStatus@78e67e0a]" name="Setup" is-config="true" duration-ms="6210" started-at="2021-06-06T16:23:49 IST" finished-at="2021-06-06T16:23:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="GetArrivalStatus()[pri:0, instance:TestScripts.MobileEmulatorForArrivalStatus@78e67e0a]" name="GetArrivalStatus" duration-ms="14203" started-at="2021-06-06T16:23:56 IST" finished-at="2021-06-06T16:24:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetArrivalStatus -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:TestScripts.MobileEmulatorForArrivalStatus@78e67e0a]" name="TearDown" is-config="true" duration-ms="204" started-at="2021-06-06T16:24:10 IST" finished-at="2021-06-06T16:24:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestScripts.MobileEmulatorForArrivalStatus -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
